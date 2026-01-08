@@ -2,6 +2,25 @@
 
 ## The Most Over-Engineered "Coming Soon" Page in the History of the Internet
 
+---
+
+## 👁️ SEE IT IN ACTION
+
+**🌐 Live Demo:** [View the glitching animation here](https://custom-linkcluster.vercel.app) *(Deploy to Vercel to get your own link!)*
+
+**📸 Preview for GitHub Viewers:**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9909fac1-8c38-4d41-82d6-b2038305351e" alt="Glitching Website Coming Soon Animation" width="800">
+  <p><i>Cyberpunk-style glitch effect with cyan/magenta distortions</i></p>
+</div>
+
+**💻 For Vercel Viewers:** You're already experiencing the full glory of the animation! Refresh if you want to see it glitch again.
+
+**📂 For GitHub Viewers:** Click the live demo link above or download `index.html` and open it in your browser to see the full animated effect.
+
+---
+
 ### Why Does This Exist?
 
 Great question! You see, once upon a time, someone realized that paying $5/month for a "link-tree" service was about as sensible as buying bottled water from the Arctic. Thus, this project was born from the ashes of fiscal responsibility and sprinkled with the glitter of rebellion against subscription-based link aggregation tyranny.
