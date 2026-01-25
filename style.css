@@ -7,7 +7,7 @@
 body {
     background-color: #000000;
     display: static;
-    align-items="center"
+    align-items: center;
     font-family: 'Times-New-Roman', monospace;
 }
 
