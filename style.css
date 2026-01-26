@@ -274,14 +274,14 @@ body {
             }
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 780px) {
             .glitch-container {
-                font-size: 2rem;
+                font-size: 5rem;
             }
         }
 
-        @media (max-width: 480px) {
+        @media (max-width: 500px) {
             .glitch-container {
-                font-size: 1.5rem;
+                font-size: 2.00rem;
             }
         }
