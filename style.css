@@ -42,11 +42,23 @@ body {
     text-align: center;
     z-index: 10;
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 0.75rem;
 }
 
 .footer-container p {
     margin: 5px 0;
+}
+
+.footer-container a {
+    color: #00ffff;
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.footer-container a:hover {
+    color: #b4f600;
+    text-shadow: 0 0 10px #ff00ff;
+    text-decoration: underline;
 }
 
         .glitch-container {
