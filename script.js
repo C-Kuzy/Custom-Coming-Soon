@@ -2,7 +2,7 @@
 const glitchElement = document.querySelector('.glitch');
 
 function randomGlitch() {
-    const intensity = Math.random() * 5;
+    const intensity = Math.random() * 25;
     glitchElement.style.textShadow = `
         ${intensity}px 0 #ff0000,
         ${-intensity}px 0 #00ffff,
@@ -17,7 +17,7 @@ function randomGlitch() {
 
 // Trigger random glitches
 setInterval(() => {
-    if (Math.random() > 0.7) {
+    if (Math.random() > 0.75) {
         randomGlitch();
     }
 }, 200);
@@ -25,12 +25,12 @@ setInterval(() => {
 // Add occasional screen shake effect
 function screenShake() {
     const container = document.querySelector('.glitch-container');
-    const shakeAmount = Math.random() * 10 - 2;
+    const shakeAmount = Math.random() * 20 - 2;
     container.style.transform = `translate(${shakeAmount}px, ${shakeAmount}px)`;
     
     setTimeout(() => {
         container.style.transform = '';
-    }, 50);
+    }, 500);
 }
 
 setInterval(() => {
