@@ -6,7 +6,7 @@ function randomGlitch() {
     glitchElement.style.textShadow = `
         ${intensity}px 0 #ff0000,
         ${-intensity}px 0 #00ffff,
-        0 ${intensity}px #ffff00
+        0 ${intensity}px #2bff00
     `;
     
     // Reset after a short time
