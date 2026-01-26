@@ -68,11 +68,12 @@ body {
             color: #ffffff;
             letter-spacing: 0.1em;
             text-transform: uppercase;
+            text-align: center;
         }
 
         .glitch {
             position: relative;
-            z-index: 1;
+            z-index: 15;
         }
 
         .glitch::before,
