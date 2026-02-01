@@ -46,7 +46,6 @@ Because where's the fun in that? Why use a perfectly functional service when you
 This project features:
 
 - 🎨 **A Black Background** - Revolutionary, we know. We considered other colors, but black is:
-  - 50% more mysterious
   - 100% more cyberpunk
   - Saves approximately 0.0001% of your monitor's energy
   
