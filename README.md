@@ -21,7 +21,7 @@
 
 ---
 
-### Why Does This Exist?
+### Why Does This Exist?...
 
 Great question! You see, once upon a time, someone realized that paying $5/month for a "link-tree" service was about as sensible as buying bottled water from the Arctic. Thus, this project was born from the ashes of fiscal responsibility and sprinkled with the glitter of rebellion against subscription-based link aggregation tyranny.
 
