@@ -4,7 +4,7 @@
 
 ---
 
-## 👁️ SEE IT IN ACTION
+## 👁️ SEE IT IN ACTION...
 
 **🌐 Live Demo:** [View the glitching animation here](https://custom-linkcluster.vercel.app) *(Deploy to Vercel to get your own link!)*
 
