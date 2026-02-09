@@ -58,7 +58,7 @@ This project features:
   
 - 🚀 **Vercel Deployment Ready** - Because we're fancy like that
 
-### How to Deploy Your Own Monument to Procrastination
+### How to Deploy Your Own Monument to Procrastination...
 
 1. Fork this repo
 2. Connect it to Vercel (it's free, unlike those link-tree services)
